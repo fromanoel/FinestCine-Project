@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20">
+	<title>starIcon</title>
+	<defs>
+		<image  width="18" height="18" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAAAXNSR0IB2cksfwAAAPlQTFRFAAAA/8tT/9tj/8hQ/81V/9xk/9xj/8hQ/9FZ/9xk/9xk/8hQ/8hQ/9Vd/9xk/9xk/8hQ/8hQ/9hg/9xk/8lQ/8hQ/8hQ/8hQ/9pi/9xk/9xk/9xk/9xi/8hQ/8hQ/8hQ/8hQ/9tj/9xk/9xk/9xk/9xk/8hQ/9xk/8hQ/8hQ/8lR/9xk/9xk/8hQ/9xk/9xk/8hQ/8hQ/9xk/9xk/8hQ/8hQ/9xk/8hQ/8hQ/9df/9xk/9xk/8hQ/9Ja/9xk/8hQ/8tT/9xk/9xk/8hQ/8hQ/8hQ/8hQ/9xk/9xk/9xk/9xk/8hQ/8hQ/8hQ/9xk/9xk/8hQ/8hQ/9xkhCorbAAAAFN0Uk5TACogBejcA2z//0sG2v/IBHj//1QAES3Y/8UqDgBGibLn/+KuhTesigu2/5sHCJkFBKmSAwfs4wr2//IGMf8hYvb5Qpz5jxcfnftzvLkyQ8Q9Pi0EYRPJAAAAzElEQVR4nGNkgAJGxn8wFpRmZmRk/IUqxA4U+oYixM3I+IeV8SOykAAj43cGrrdwIRGQOewfQeKMT4BCskAapEHgBUiFJJDHqPYaovUHzDVyjBqMEOn7UBElRkYG3U+fkFSpMl4EGm/A+ABulibjWbCNJox3gG4F2aH78yLEEeaMNxkYNC4AWYaMRyFCNleBhM4ZkEbTQxAh+0tAQp/xBJC03AcRcj7HYAxyIuMBBsdtECHvY9aMm4G0H+MupasQoQDG9VB3cnmsY2AAANj+LYsdW5udAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="1" y="1"/>
+</svg>
